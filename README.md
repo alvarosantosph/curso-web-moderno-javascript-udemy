@@ -7,8 +7,7 @@ Curso Web Moderno Completo com JavaScript 2022 + Projetos
 
 <div align="left">
     <img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge" alt="Javascript">
-    <img src="https://img.shields.io/badge/-React-deepskyblue?style=for-the-badge" alt="React">
-    <img src="https://img.shields.io/badge/-Redux-purple?style=for-the-badge" alt="Redux">
+    <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge" alt="Node.js">
 </div>
 
 <br />
