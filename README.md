@@ -14,7 +14,7 @@ Curso Web Moderno Completo com JavaScript 2022 + Projetos
 
 <br />
 
-https://www.udemy.com/course/react-redux-pt/
+https://www.udemy.com/course/curso-web/
 
 ## Contato
 
